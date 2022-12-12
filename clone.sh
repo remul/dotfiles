@@ -3,8 +3,10 @@
 echo "Cloning repositories..."
 
 SITES=$HOME/Sites
-# BLADE=$SITES/blade-ui-kit
-# LARAVEL=$SITES/laravel
 
 # Personal
-# git clone git@github.com:driesvints/driesvints.com.git $SITES/driesvints.co
+
+# Work
+# git clone git@github.com:Swissbrain/makaris.com.git $SITES/makaris
+# git clone git@github.com:Swissbrain/MyNVB.com.git $SITES/mynvb
+# git clone git@github.com:Swissbrain/Esora-Backend.com.git $SITES/Esora-Backend
